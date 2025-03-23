@@ -10,4 +10,4 @@ sobrenome = Console.ReadLine()!;
 Console.WriteLine("");
 
 Console.WriteLine($"Nome completo: {nome} {sobrenome}");
-Console.WriteLine($"Nome completo: {sobrenome.ToUpper()}{","} {nome}");
+Console.WriteLine($"Nome de catálogo: {sobrenome.ToUpper()}{","} {nome}");
